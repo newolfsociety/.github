@@ -49,7 +49,17 @@ A virtual induction program spanning 2 weeks filled with building cool projects 
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-* [![image](https://user-images.githubusercontent.com/72694926/140288261-60872175-035a-45ee-a049-0f33d9c1652d.png)](https://www.newolf.tech/)
+* <a href="https://discord.gg/Cf7DqHVQ">
+  <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
+* <a href="https://www.youtube.com/channel/UCRbkf2XQFSaZ6Dg6moT1sGQ/videos">
+  <img alt="Youtube" src="https://img.shields.io/badge/<Newolf Society>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+</a>
 
+* <a href="https://medium.com/newolf-society">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+* [![image](https://user-images.githubusercontent.com/72694926/140289104-3b769e18-ace7-4e79-ab6a-2a4ddee31252.png)](https://www.newolf.tech/)
 
