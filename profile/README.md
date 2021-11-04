@@ -34,6 +34,8 @@ A virtual induction program spanning 2 weeks filled with building cool projects 
 
 ![image](https://user-images.githubusercontent.com/72694926/140278044-f14f23b3-50db-4468-9614-44a935eaa85e.png)
 
+<img src="![image](https://user-images.githubusercontent.com/72694926/140286310-662e423f-af51-46a4-a4d1-fe8f54766ba4.png)" width="100" height="100">
+
 ## ☎️ Contact Us on:
 <a href="https://in.linkedin.com/company/newolfsociety">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?"/>
