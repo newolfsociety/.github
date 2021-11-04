@@ -50,11 +50,11 @@ A virtual induction program spanning 2 weeks filled with building cool projects 
 </a>
 
 * <a href="https://discord.gg/Cf7DqHVQ">
-  <img alt="Discord" src="https://img.shields.io/badge/Newolf Society-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 * <a href="https://www.youtube.com/channel/UCRbkf2XQFSaZ6Dg6moT1sGQ/videos">
-  <img alt="Youtube" src="https://img.shields.io/badge/Newolf Society-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  <img alt="Youtube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>
 
 * <a href="https://medium.com/newolf-society">
