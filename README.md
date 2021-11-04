@@ -2,7 +2,7 @@
 
 We're so glad you found yourselves here!
 
-[![Newolf Society](![image](https://user-images.githubusercontent.com/72694926/140275085-49bca090-599d-4162-af63-7449d2e2218a.png)(https://www.youtube.com/watch?v=WMB2qmnDdbE)]
+[![image](https://user-images.githubusercontent.com/72694926/140275391-3f742085-1e2d-44ac-a41b-5410cbfebc28.png)](https://www.youtube.com/watch?v=WMB2qmnDdbE)
 
 ## Who are we?
 Newolf Society is a haven for students interested in the realm of tech. The only requirement is your burning desire to learn tech !
