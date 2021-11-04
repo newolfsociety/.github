@@ -49,7 +49,7 @@ A virtual induction program spanning 2 weeks filled with building cool projects 
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-[![image](https://user-images.githubusercontent.com/72694926/140277831-cf2b5756-5d53-465b-8e68-fd80d28f9112.png)](https://www.newolf.tech/)
+* [![image](https://user-images.githubusercontent.com/72694926/140288142-54bd8a22-9f20-4960-9b5f-edfb498cefac.png)](https://www.newolf.tech/)
 
 
 
