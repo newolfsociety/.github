@@ -20,7 +20,7 @@ Also we conduct events to catalyse project-based learning. Currently we have:
 Want to join our amazing community? Join the icebreaker!
 A virtual induction program spanning 2 weeks filled with building cool projects and fun interactive sessions.
 
-![image](https://user-images.githubusercontent.com/72694926/140276996-1406dd4f-ac2b-4451-8cd5-590095662d20.png)
+![image](https://user-images.githubusercontent.com/72694926/140278125-2c1000bf-1f67-4e34-865a-b07bfb0e6e34.png)
 
 
 ### Tech Channels: 
@@ -32,7 +32,7 @@ A virtual induction program spanning 2 weeks filled with building cool projects 
 ![image](https://user-images.githubusercontent.com/72694926/140276593-68633180-4f59-45f3-ab1a-88d7f6b90293.png)
 * [TechMatrix](https://github.com/Tech-Matrix):A space for people to get together, build projects and develop a passion for open-source. Consists of the parts Project Workbench and Open Source September.
 
-![image](https://user-images.githubusercontent.com/72694926/140276761-7950471f-e392-4fc2-a9cb-48abb265dd84.png)
+![image](https://user-images.githubusercontent.com/72694926/140278044-f14f23b3-50db-4468-9614-44a935eaa85e.png)
 
 ## ☎️ Contact Us on:
 <a href="https://in.linkedin.com/company/newolfsociety">
@@ -44,6 +44,7 @@ A virtual induction program spanning 2 weeks filled with building cool projects 
 <a href="https://www.instagram.com/newolfsociety/?hl=en">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+[![image](https://user-images.githubusercontent.com/72694926/140277831-cf2b5756-5d53-465b-8e68-fd80d28f9112.png)](https://www.newolf.tech/)
 <a href="https://www.newolf.tech/">
   <img alt="NewolfSociety" src="![image](https://user-images.githubusercontent.com/72694926/140277831-cf2b5756-5d53-465b-8e68-fd80d28f9112.png)"/>
 </a>
