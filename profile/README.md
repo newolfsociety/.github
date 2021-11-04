@@ -32,7 +32,7 @@ A virtual induction program spanning 2 weeks filled with building cool projects 
 
 ![image](https://user-images.githubusercontent.com/72694926/140286737-c5954421-0ae1-43fd-afc5-faebeac36c68.png)
 
-* [TechMatrix](https://github.com/Tech-Matrix) :A space for people to get together, build projects and develop a passion for open-source. Consists of the parts Project Workbench and Open Source September.
+* [TechMatrix](https://github.com/Tech-Matrix) : A space for people to get together, build projects and develop a passion for open-source. Consists of the parts Project Workbench and Open Source September.
 
 ![image](https://user-images.githubusercontent.com/72694926/140286515-62c72919-f1df-4b0d-8b86-5e6d8575e062.png)
 
@@ -50,11 +50,11 @@ A virtual induction program spanning 2 weeks filled with building cool projects 
 </a>
 
 * <a href="https://discord.gg/Cf7DqHVQ">
-  <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img alt="Discord" src="https://img.shields.io/badge/%3CNewolf Society%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 * <a href="https://www.youtube.com/channel/UCRbkf2XQFSaZ6Dg6moT1sGQ/videos">
-  <img alt="Youtube" src="https://img.shields.io/badge/<Newolf Society>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  <img alt="Youtube" src="https://img.shields.io/badge/Newolf Society-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>
 
 * <a href="https://medium.com/newolf-society">
