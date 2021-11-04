@@ -26,7 +26,7 @@ A virtual induction program spanning 2 weeks filled with building cool projects 
 ### Tech Channels: 
 * Competitive-coding : This channel is for folks  interested in Competitive coding in C++,C,Java etc. There will be regular coding problems, regular discussions and mock interviews. Highly recommended  for folks who are trying for Good Computer Science based placements. 
 
-![image](https://user-images.githubusercontent.com/72694926/140286835-2f002ad1-27d7-4c48-aa8a-e3024556dc81.png)
+![image](https://user-images.githubusercontent.com/72694926/140290987-8767bb35-4907-43eb-b244-18cd6b27f748.png)
 
 * Research-Lab : This channel is for folks interested in Research in Engineering subjects. A few events here include Research colloquium based on a weekly tech theme ,  daily discussion about research papers from two-minute-papers and other tech advances  in today's world and many more.
 
@@ -50,7 +50,7 @@ A virtual induction program spanning 2 weeks filled with building cool projects 
 </a>
 
 * <a href="https://discord.gg/Cf7DqHVQ">
-  <img alt="Discord" src="https://img.shields.io/badge/%3CNewolf Society%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img alt="Discord" src="https://img.shields.io/badge/Newolf Society-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 * <a href="https://www.youtube.com/channel/UCRbkf2XQFSaZ6Dg6moT1sGQ/videos">
